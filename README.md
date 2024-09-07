@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-143&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-143" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Java DSA and advanced Java Topics**
 
 - 👯 I’m looking to collaborate on **MERN stack development**
 
